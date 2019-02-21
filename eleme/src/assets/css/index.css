@@ -1,0 +1,6 @@
+body{
+    font-size: 0.16rem;
+}
+.nav>ul>.cur{
+    color: red;
+}
